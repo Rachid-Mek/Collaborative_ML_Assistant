@@ -107,7 +107,7 @@ without conflating it with content augmentation mechanisms such as Retrieval-Aug
 
 ```bash
 git clone <repository_url>
-cd CoML-DS
+cd Collaborative_ML_Assistant
 ```
 
 ### 2 Create a virtual environment (optional but recommended)
