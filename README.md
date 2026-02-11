@@ -106,7 +106,7 @@ without conflating it with content augmentation mechanisms such as Retrieval-Aug
 ### 1. Clone the repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Rachid-Mek/Collaborative_ML_Assistant.git
 cd Collaborative_ML_Assistant
 ```
 
